@@ -1,0 +1,15 @@
+C:\Users\glrod\Desktop\Dotnet\bin\Debug\net6.0\Projeto_Dotnet.exe
+C:\Users\glrod\Desktop\Dotnet\bin\Debug\net6.0\Projeto_Dotnet.deps.json
+C:\Users\glrod\Desktop\Dotnet\bin\Debug\net6.0\Projeto_Dotnet.runtimeconfig.json
+C:\Users\glrod\Desktop\Dotnet\bin\Debug\net6.0\Projeto_Dotnet.dll
+C:\Users\glrod\Desktop\Dotnet\bin\Debug\net6.0\ref\Projeto_Dotnet.dll
+C:\Users\glrod\Desktop\Dotnet\bin\Debug\net6.0\Projeto_Dotnet.pdb
+C:\Users\glrod\Desktop\Dotnet\obj\Debug\net6.0\Projeto_Dotnet.csproj.AssemblyReference.cache
+C:\Users\glrod\Desktop\Dotnet\obj\Debug\net6.0\Projeto_Dotnet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\glrod\Desktop\Dotnet\obj\Debug\net6.0\Projeto_Dotnet.AssemblyInfoInputs.cache
+C:\Users\glrod\Desktop\Dotnet\obj\Debug\net6.0\Projeto_Dotnet.AssemblyInfo.cs
+C:\Users\glrod\Desktop\Dotnet\obj\Debug\net6.0\Projeto_Dotnet.csproj.CoreCompileInputs.cache
+C:\Users\glrod\Desktop\Dotnet\obj\Debug\net6.0\Projeto_Dotnet.dll
+C:\Users\glrod\Desktop\Dotnet\obj\Debug\net6.0\ref\Projeto_Dotnet.dll
+C:\Users\glrod\Desktop\Dotnet\obj\Debug\net6.0\Projeto_Dotnet.pdb
+C:\Users\glrod\Desktop\Dotnet\obj\Debug\net6.0\Projeto_Dotnet.genruntimeconfig.cache
